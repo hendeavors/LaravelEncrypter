@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaravelEncrypter", "EhrConnectorEncryption\LaravelEncrypter.csproj", "{8B819D2B-7E62-4B9F-96B0-F6A1CAAD70B1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaravelEncrypter", "LaravelEncrypter\LaravelEncrypter.csproj", "{8B819D2B-7E62-4B9F-96B0-F6A1CAAD70B1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
