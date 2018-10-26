@@ -1,5 +1,5 @@
 ﻿using System;
-namespace EhrConnectorEncryption
+namespace LaravelEncrypter
 {
     public enum HashAlgorithm
     {

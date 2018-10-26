@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace EhrConnectorEncryption
+namespace LaravelEncrypter
 {
     public interface IListEncrypter : IEncrypter<IList<string>>
     {
